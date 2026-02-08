@@ -1,0 +1,5 @@
+1. CPanel di spreadsheet tidak boleh di tarik drag ( harus di ketik atau di copy value )
+2. user dashboard token soal
+   user : admin| pass : smkds2026
+   user : pengawas | pengawas
+3. link download aplikasi https://drive.google.com/file/d/1LSP_1tL1ff2sL33AS8ZkStj3eieSJh9x/view?usp=sharing
